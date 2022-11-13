@@ -1,0 +1,13 @@
+header {
+    background-color: #ffffff;
+    padding: 10px 20px;
+    width: calc(100% - 250px);
+    margin-left: auto;
+    border-bottom: 1px solid #d3d3d3;
+}
+header input {
+    padding: 10px 15px;
+    width: 500px;
+    border-radius: 100px;
+    border: 1px solid #d3d3d3;
+}
