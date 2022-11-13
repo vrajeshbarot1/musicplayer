@@ -7,7 +7,7 @@ const Home = () => {
     const showActive = searchparams.get('filter');
     return (
         <div>
-            <h2>Recently Played</h2>
+            <h2>Recent Played</h2>
             <SongCard />
             <h2>Featured</h2>
             <button onClick={()=> setSearchparams({filter: 'active'})}>Active</button>
